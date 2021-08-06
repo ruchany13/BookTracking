@@ -1,0 +1,9 @@
+
+a     b	: 12
+a     b	: 15
+as     asd	: 123
+a     s	: 15
+a     s	: 15
+a     s	: 15
+a     s	: 25
+Faideli Bilgiler     Ahmet Cedvet Paþa	: 459
